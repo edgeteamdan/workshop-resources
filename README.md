@@ -15,10 +15,14 @@ Access the presentation slides here:
 To get started with the workshop exercises:
 
 1. Sign up or log in to [Replit.com](https://replit.com)
-2. Navigate to your account settings
-3. Go to the subscription/billing section
-4. Apply the promo code: **MASTRAAIEDGE**
-5. This will activate your Replit Core plan for the workshop
+2. Click the "Upgrade to Replit Core" button in the bottom left
+3. Click "Continue with Core"
+4. Copy and paste the promo code:
+   ```
+   MASTRAAIEDGE
+   ```
+5. Enter your payment information
+6. Your Replit Core plan is now active for the workshop
 
 ---
 

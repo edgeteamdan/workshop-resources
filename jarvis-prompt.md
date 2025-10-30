@@ -28,7 +28,7 @@ Use Google Calendar integration
 
 Gmail Tool:
 
-Draft emails in user's Gmail account
+Send emails from user's Gmail account
 Use Gmail integration
 
 Research Tool:

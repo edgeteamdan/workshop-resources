@@ -57,6 +57,10 @@ The agent will automatically wake up at 7am daily, search for Sioux Falls news f
 
 ### PROMPT 2: Jarvis AI Assistant
 
+**Prerequisites:**
+- Telegram account and [bot token](https://t.me/BotFather)
+- [Exa API key](https://dashboard.exa.ai/home) for search
+
 Copy and paste the following prompt to get started:
 
 ```
